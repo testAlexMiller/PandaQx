@@ -1,5 +1,5 @@
 # > Steam
-USER-AGENT,Steam
+USER-AGENT,steam*,Steam
 DOMAIN-SUFFIX,steampowered.com,Steam
 DOMAIN-SUFFIX,steamcommunity.com,Steam
 DOMAIN-SUFFIX,steamgames.com,Steam
